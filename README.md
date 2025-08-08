@@ -8,7 +8,7 @@
 
 ## 📊 Linguagens Mais Usadas:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAmancio222&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAmancio222&layout=compact&theme=radical&cache_seconds=0" alt="Linguagens mais usadas">
 </p>
 
 ---
